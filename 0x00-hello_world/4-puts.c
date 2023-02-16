@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *  main - C program that outputs with a pust function followed by a new line.
-return (0 succes)
+return (0 success)
 */
 int main(void)
 {
