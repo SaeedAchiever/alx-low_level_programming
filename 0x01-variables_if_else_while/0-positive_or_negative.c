@@ -15,10 +15,10 @@ if (n > 0){
 printf("is positive");
 }
 else if (n == 0){
-printf("is zero")
+printf("is zero");
 }
 else{
-printf("is negative")
+printf("is negative");
 }
 	return (0);
 }
