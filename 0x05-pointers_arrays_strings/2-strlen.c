@@ -5,7 +5,8 @@
 *@s: whose len is to be determined
 *Return: *s
 */
-int _strlen(char *s);
+int _strlen(char *s)
 {
+char *s
 return strlen(*s);
 }
