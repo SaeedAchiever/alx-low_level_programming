@@ -5,7 +5,7 @@
 *@str: holds the variable
 Return (always) 0
 */
-void _puts(char *str);
+void _puts(char *str)
 int main(void)
 {
 char str[] = "Hi am a string to be printed";
