@@ -10,7 +10,7 @@ int lenOfStr = 0;
 while(*s != '\0')
 {
 lenOfStr++;
-*s++;
+s++;
 }
 return lenOfStr;
 }
