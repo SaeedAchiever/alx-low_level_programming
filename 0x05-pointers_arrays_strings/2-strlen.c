@@ -12,5 +12,5 @@ while (*s != '\0')
 lenOfStr++;
 s++;
 }
-return(lenOfStr);
+return (lenOfStr);
 }
